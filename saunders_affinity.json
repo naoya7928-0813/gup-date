@@ -1,0 +1,8 @@
+{
+  "school": "サンダース大学付属高校",
+  "parameters": {
+    "SAUNDERS-Kay":   { "affection": 0, "trust": 0, "hostility": 0, "charm": 58, "stress": 0, "fear": 0, "sanity": 100, "hunger": 47, "fatigue": 0, "health": 100, "bowel_urge": 18, "bladder_urge": 36, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "SAUNDERS-Naomi": { "affection": 0, "trust": 0, "hostility": 0, "charm": 52, "stress": 0, "fear": 0, "sanity": 100, "hunger": 25, "fatigue": 0, "health": 100, "bowel_urge": 31, "bladder_urge": 20, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "SAUNDERS-Arisa": { "affection": 0, "trust": 0, "hostility": 0, "charm": 51, "stress": 0, "fear": 0, "sanity": 100, "hunger": 62, "fatigue": 0, "health": 100, "bowel_urge": 12, "bladder_urge": 55, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 }
+  }
+}
