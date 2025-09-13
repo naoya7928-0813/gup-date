@@ -1,0 +1,12 @@
+{
+  "school": "黒森峰女学園",
+  "parameters": {
+    "KMM-NishizumiMaho": { "affection": 0, "trust": 0, "hostility": 0, "charm": 55, "stress": 0, "fear": 0, "sanity": 100, "hunger": 21, "fatigue": 0, "health": 100, "bowel_urge": 30, "bladder_urge": 17, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "KMM-HitsumiErika":  { "affection": 0, "trust": 0, "hostility": 0, "charm": 52, "stress": 0, "fear": 0, "sanity": 100, "hunger": 44, "fatigue": 0, "health": 100, "bowel_urge": 19, "bladder_urge": 39, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "KMM-AkaboshiKoume": { "affection": 0, "trust": 0, "hostility": 0, "charm": 48, "stress": 0, "fear": 0, "sanity": 100, "hunger": 58, "fatigue": 0, "health": 100, "bowel_urge": 25, "bladder_urge": 12, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "KMM-KojimaEmi":     { "affection": 0, "trust": 0, "hostility": 0, "charm": 46, "stress": 0, "fear": 0, "sanity": 100, "hunger": 37, "fatigue": 0, "health": 100, "bowel_urge": 56, "bladder_urge": 20, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "KMM-HidaEma":       { "affection": 0, "trust": 0, "hostility": 0, "charm": 49, "stress": 0, "fear": 0, "sanity": 100, "hunger": 63, "fatigue": 0, "health": 100, "bowel_urge": 14, "bladder_urge": 27, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "KMM-IrumaAnna":     { "affection": 0, "trust": 0, "hostility": 0, "charm": 47, "stress": 0, "fear": 0, "sanity": 100, "hunger": 33, "fatigue": 0, "health": 100, "bowel_urge": 41, "bladder_urge": 31, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "KMM-KatsuyaMegu":   { "affection": 0, "trust": 0, "hostility": 0, "charm": 50, "stress": 0, "fear": 0, "sanity": 100, "hunger": 12, "fatigue": 0, "health": 100, "bowel_urge": 62, "bladder_urge": 15, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 }
+  }
+}
