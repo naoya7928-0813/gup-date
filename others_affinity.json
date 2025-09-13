@@ -1,0 +1,149 @@
+{
+  "school": "OTHERS",
+  "parameters": {
+    "others-shiho-nishizumi": {
+      "affection": 0, "trust": 0, "hostility": 0, "charm": 55,
+      "stress": 0, "fear": 0, "sanity": 100,
+      "hunger": 42, "fatigue": 0, "health": 100,
+      "bowel_urge": 21, "bladder_urge": 38,
+      "oxygen": 100, "arousal": 0,
+      "dependency_player": 0, "dependency_tank": 0
+    },
+    "others-chiyo-shimada": {
+      "affection": 0, "trust": 0, "hostility": 0, "charm": 54,
+      "stress": 0, "fear": 0, "sanity": 100,
+      "hunger": 36, "fatigue": 0, "health": 100,
+      "bowel_urge": 18, "bladder_urge": 49,
+      "oxygen": 100, "arousal": 0,
+      "dependency_player": 0, "dependency_tank": 0
+    },
+    "others-yuri-isuzu": {
+      "affection": 0, "trust": 0, "hostility": 0, "charm": 50,
+      "stress": 0, "fear": 0, "sanity": 100,
+      "hunger": 61, "fatigue": 0, "health": 100,
+      "bowel_urge": 12, "bladder_urge": 27,
+      "oxygen": 100, "arousal": 0,
+      "dependency_player": 0, "dependency_tank": 0
+    },
+    "others-shinzaburo": {
+      "affection": 0, "trust": 0, "hostility": 0, "charm": 47,
+      "stress": 0, "fear": 0, "sanity": 100,
+      "hunger": 25, "fatigue": 0, "health": 100,
+      "bowel_urge": 39, "bladder_urge": 14,
+      "oxygen": 100, "arousal": 0,
+      "dependency_player": 0, "dependency_tank": 0
+    },
+    "others-jungoro-akiyama": {
+      "affection": 0, "trust": 0, "hostility": 0, "charm": 49,
+      "stress": 0, "fear": 0, "sanity": 100,
+      "hunger": 33, "fatigue": 0, "health": 100,
+      "bowel_urge": 22, "bladder_urge": 31,
+      "oxygen": 100, "arousal": 0,
+      "dependency_player": 0, "dependency_tank": 0
+    },
+    "others-yoshiko-akiyama": {
+      "affection": 0, "trust": 0, "hostility": 0, "charm": 48,
+      "stress": 0, "fear": 0, "sanity": 100,
+      "hunger": 45, "fatigue": 0, "health": 100,
+      "bowel_urge": 15, "bladder_urge": 54,
+      "oxygen": 100, "arousal": 0,
+      "dependency_player": 0, "dependency_tank": 0
+    },
+    "others-hisako-reizei": {
+      "affection": 0, "trust": 0, "hostility": 0, "charm": 46,
+      "stress": 0, "fear": 0, "sanity": 100,
+      "hunger": 29, "fatigue": 0, "health": 100,
+      "bowel_urge": 40, "bladder_urge": 19,
+      "oxygen": 100, "arousal": 0,
+      "dependency_player": 0, "dependency_tank": 0
+    },
+    "others-taiga-ou": {
+      "affection": 0, "trust": 0, "hostility": 0, "charm": 49,
+      "stress": 0, "fear": 0, "sanity": 100,
+      "hunger": 64, "fatigue": 0, "health": 100,
+      "bowel_urge": 11, "bladder_urge": 36,
+      "oxygen": 100, "arousal": 0,
+      "dependency_player": 0, "dependency_tank": 0
+    },
+    "others-jane": {
+      "affection": 0, "trust": 0, "hostility": 0, "charm": 52,
+      "stress": 0, "fear": 0, "sanity": 100,
+      "hunger": 38, "fatigue": 0, "health": 100,
+      "bowel_urge": 23, "bladder_urge": 42,
+      "oxygen": 100, "arousal": 0,
+      "dependency_player": 0, "dependency_tank": 0
+    },
+    "others-bell": {
+      "affection": 0, "trust": 0, "hostility": 0, "charm": 51,
+      "stress": 0, "fear": 0, "sanity": 100,
+      "hunger": 27, "fatigue": 0, "health": 100,
+      "bowel_urge": 55, "bladder_urge": 20,
+      "oxygen": 100, "arousal": 0,
+      "dependency_player": 0, "dependency_tank": 0
+    },
+    "others-bureaucrat": {
+      "affection": 0, "trust": 0, "hostility": 0, "charm": 44,
+      "stress": 0, "fear": 0, "sanity": 100,
+      "hunger": 31, "fatigue": 0, "health": 100,
+      "bowel_urge": 19, "bladder_urge": 47,
+      "oxygen": 100, "arousal": 0,
+      "dependency_player": 0, "dependency_tank": 0
+    },
+    "others-father-kawashima": {
+      "affection": 0, "trust": 0, "hostility": 0, "charm": 45,
+      "stress": 0, "fear": 0, "sanity": 100,
+      "hunger": 52, "fatigue": 0, "health": 100,
+      "bowel_urge": 14, "bladder_urge": 33,
+      "oxygen": 100, "arousal": 0,
+      "dependency_player": 0, "dependency_tank": 0
+    },
+    "others-mother-kawashima": {
+      "affection": 0, "trust": 0, "hostility": 0, "charm": 47,
+      "stress": 0, "fear": 0, "sanity": 100,
+      "hunger": 28, "fatigue": 0, "health": 100,
+      "bowel_urge": 37, "bladder_urge": 16,
+      "oxygen": 100, "arousal": 0,
+      "dependency_player": 0, "dependency_tank": 0
+    },
+    "others-second-daughter-kawashima": {
+      "affection": 0, "trust": 0, "hostility": 0, "charm": 44,
+      "stress": 0, "fear": 0, "sanity": 100,
+      "hunger": 33, "fatigue": 0, "health": 100,
+      "bowel_urge": 26, "bladder_urge": 41,
+      "oxygen": 100, "arousal": 0,
+      "dependency_player": 0, "dependency_tank": 0
+    },
+    "others-third-daughter-kawashima": {
+      "affection": 0, "trust": 0, "hostility": 0, "charm": 44,
+      "stress": 0, "fear": 0, "sanity": 100,
+      "hunger": 21, "fatigue": 0, "health": 100,
+      "bowel_urge": 40, "bladder_urge": 19,
+      "oxygen": 100, "arousal": 0,
+      "dependency_player": 0, "dependency_tank": 0
+    },
+    "others-eldest-son-kawashima": {
+      "affection": 0, "trust": 0, "hostility": 0, "charm": 46,
+      "stress": 0, "fear": 0, "sanity": 100,
+      "hunger": 60, "fatigue": 0, "health": 100,
+      "bowel_urge": 15, "bladder_urge": 27,
+      "oxygen": 100, "arousal": 0,
+      "dependency_player": 0, "dependency_tank": 0
+    },
+    "others-fourth-daughter-kawashima": {
+      "affection": 0, "trust": 0, "hostility": 0, "charm": 43,
+      "stress": 0, "fear": 0, "sanity": 100,
+      "hunger": 29, "fatigue": 0, "health": 100,
+      "bowel_urge": 51, "bladder_urge": 34,
+      "oxygen": 100, "arousal": 0,
+      "dependency_player": 0, "dependency_tank": 0
+    },
+    "others-fifth-daughter-kawashima": {
+      "affection": 0, "trust": 0, "hostility": 0, "charm": 43,
+      "stress": 0, "fear": 0, "sanity": 100,
+      "hunger": 48, "fatigue": 0, "health": 100,
+      "bowel_urge": 17, "bladder_urge": 62,
+      "oxygen": 100, "arousal": 0,
+      "dependency_player": 0, "dependency_tank": 0
+    }
+  }
+}
