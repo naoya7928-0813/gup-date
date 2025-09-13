@@ -2,78 +2,97 @@
   "school": "OTHERS",
   "students": [
     {
+      "id": "others-shiho-nishizumi",
       "name": "西住 しほ",
       "profile": "みほとまほの母親。西住流の家元。"
     },
     {
+      "id": "others-chiyo-shimada",
       "name": "島田 千代",
       "profile": "島田 愛里寿の母。戦車道島田流の家元。大学戦車道連盟の理事長と大学選抜強化チームの役員を兼務する。"
     },
     {
+      "id": "others-yuri-isuzu",
       "name": "五十鈴 百合",
       "profile": "五十鈴 華の母親。華道の五十鈴流家元。華が戦車道を履修していることを快く思っていない。"
     },
     {
+      "id": "others-shinzaburo",
       "name": "新三郎",
       "profile": "五十鈴家の奉公人。華のことは「お嬢」と呼ぶ。"
     },
     {
+      "id": "others-jungoro-akiyama",
       "name": "秋山 淳五郎",
       "profile": "優花里の父親。秋山理髪店の店主。優花里を溺愛している。"
     },
     {
+      "id": "others-yoshiko-akiyama",
       "name": "秋山 好子",
       "profile": "優花里の母親。しっかり者で秋山理髪店を支える。"
     },
     {
+      "id": "others-hisako-reizei",
       "name": "冷泉 久子",
       "profile": "麻子の祖母。体調を崩して入院していた。"
     },
     {
+      "id": "others-taiga-ou",
       "name": "王 大河",
       "profile": "大洗女子学園の2年生で放送部員。"
     },
     {
+      "id": "others-jane",
       "name": "ジェーン",
       "profile": "大洗女子学園農業科代表。保安官として農業科の治安維持に貢献。特技は早撃ちで、その早さは0.6秒。決闘200戦無敗を誇る。"
     },
     {
+      "id": "others-bell",
       "name": "ベル",
       "profile": "大洗女子学園農業科所属。農業科名うてのお尋ね者。「世紀の大悪党」の触れ込みだが義賊的な一面も。教室より保安官事務所のジェイルにいる時間の方が長いとか。"
     },
     {
+      "id": "others-bureaucrat",
       "name": "役人",
       "profile": "文部科学省学園艦教育局所属の官僚。役人の面子に掛けて大洗女子学園を廃校に追いこもうとしていた。"
     },
     {
+      "id": "others-father-kawashima",
       "name": "河嶋の父",
       "profile": ""
     },
     {
+      "id": "others-mother-kawashima",
       "name": "河嶋の母",
       "profile": ""
     },
     {
+      "id": "others-second-daughter-kawashima",
       "name": "河嶋次女",
       "profile": ""
     },
     {
+      "id": "others-third-daughter-kawashima",
       "name": "河嶋三女",
       "profile": ""
     },
     {
+      "id": "others-eldest-son-kawashima",
       "name": "河嶋長男",
       "profile": ""
     },
     {
+      "id": "others-fourth-daughter-kawashima",
       "name": "河嶋四女",
       "profile": ""
     },
     {
+      "id": "others-fifth-daughter-kawashima",
       "name": "河嶋五女",
       "profile": ""
     },
     {
+      "id": "others-boko",
       "name": "ボコ",
       "profile": "喧嘩っ早い性格だが心意気は高く、強い相手に喧嘩を売ったり買ったりする。"
     }
