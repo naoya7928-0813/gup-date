@@ -1,0 +1,14 @@
+{
+  "school": "継続高校",
+  "parameters": {
+    "KEIZOKU-Mika":     {"affection":0,"trust":0,"hostility":0,"charm":56,"stress":0,"fear":0,"sanity":100,"hunger":31,"fatigue":0,"health":100,"bowel_urge":40,"bladder_urge":27,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "KEIZOKU-Aki":      {"affection":0,"trust":0,"hostility":0,"charm":49,"stress":0,"fear":0,"sanity":100,"hunger":64,"fatigue":0,"health":100,"bowel_urge":21,"bladder_urge":44,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "KEIZOKU-Mikko":    {"affection":0,"trust":0,"hostility":0,"charm":50,"stress":0,"fear":0,"sanity":100,"hunger":18,"fatigue":0,"health":100,"bowel_urge":57,"bladder_urge":13,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "KEIZOKU-Yoko":     {"affection":0,"trust":0,"hostility":0,"charm":52,"stress":0,"fear":0,"sanity":100,"hunger":46,"fatigue":0,"health":100,"bowel_urge":32,"bladder_urge":61,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "KEIZOKU-Tami":     {"affection":0,"trust":0,"hostility":0,"charm":47,"stress":0,"fear":0,"sanity":100,"hunger":28,"fatigue":0,"health":100,"bowel_urge":51,"bladder_urge":24,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "KEIZOKU-Yuri":     {"affection":0,"trust":0,"hostility":0,"charm":48,"stress":0,"fear":0,"sanity":100,"hunger":69,"fatigue":0,"health":100,"bowel_urge":12,"bladder_urge":36,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "KEIZOKU-Tomi":     {"affection":0,"trust":0,"hostility":0,"charm":49,"stress":0,"fear":0,"sanity":100,"hunger":37,"fatigue":0,"health":100,"bowel_urge":45,"bladder_urge":29,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "KEIZOKU-Reino":    {"affection":0,"trust":0,"hostility":0,"charm":46,"stress":0,"fear":0,"sanity":100,"hunger":22,"fatigue":0,"health":100,"bowel_urge":39,"bladder_urge":50,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "KEIZOKU-Ari":      {"affection":0,"trust":0,"hostility":0,"charm":50,"stress":0,"fear":0,"sanity":100,"hunger":58,"fatigue":0,"health":100,"bowel_urge":17,"bladder_urge":41,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0}
+  }
+}
