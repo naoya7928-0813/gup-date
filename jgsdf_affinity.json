@@ -1,0 +1,7 @@
+{
+  "school": "陸上自衛隊",
+  "parameters": {
+    "JSDF-ChonoAmi":   {"affection":0,"trust":0,"hostility":0,"charm":53,"stress":0,"fear":0,"sanity":100,"hunger":24,"fatigue":0,"health":100,"bowel_urge":48,"bladder_urge":22,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "JSDF-HachiyaChitose":{"affection":0,"trust":0,"hostility":0,"charm":48,"stress":0,"fear":0,"sanity":100,"hunger":61,"fatigue":0,"health":100,"bowel_urge":19,"bladder_urge":53,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0}
+  }
+}
