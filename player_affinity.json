@@ -1,6 +1,8 @@
 {
   "id": "player_001",
   "name": "未設定", 
+  "age": "未設定",
+  "occupation": "未設定", 
   "status": {
     "health": 150,
     "stress": 5,
