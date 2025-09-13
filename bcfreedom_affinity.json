@@ -1,0 +1,10 @@
+{
+  "school": "BC自由学園",
+  "parameters": {
+    "BCFREEDOM-Marie":    {"affection":0,"trust":0,"hostility":0,"charm":57,"stress":0,"fear":0,"sanity":100,"hunger":66,"fatigue":0,"health":100,"bowel_urge":16,"bladder_urge":22,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "BCFREEDOM-Ando":     {"affection":0,"trust":0,"hostility":0,"charm":51,"stress":0,"fear":0,"sanity":100,"hunger":28,"fatigue":0,"health":100,"bowel_urge":44,"bladder_urge":31,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "BCFREEDOM-Oshida":   {"affection":0,"trust":0,"hostility":0,"charm":50,"stress":0,"fear":0,"sanity":100,"hunger":39,"fatigue":0,"health":100,"bowel_urge":29,"bladder_urge":57,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "BCFREEDOM-Sobufue":  {"affection":0,"trust":0,"hostility":0,"charm":45,"stress":0,"fear":0,"sanity":100,"hunger":22,"fatigue":0,"health":100,"bowel_urge":63,"bladder_urge":19,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "BCFREEDOM-Sunabe":   {"affection":0,"trust":0,"hostility":0,"charm":45,"stress":0,"fear":0,"sanity":100,"hunger":54,"fatigue":0,"health":100,"bowel_urge":35,"bladder_urge":12,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0}
+  }
+}
