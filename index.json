@@ -1,4 +1,7 @@
 {
+  "player": {
+    "main": "https://naoya7928-0813.github.io/gup-date/player_affinity.json"
+  },
   "schools": {
     "oarai": {
       "main": "https://naoya7928-0813.github.io/gup-date/oarai.json",
@@ -105,3 +108,4 @@
     }
   }
 }
+
