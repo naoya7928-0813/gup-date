@@ -1,0 +1,22 @@
+{
+  "id": "player_001",
+  "name": "未設定", 
+  "status": {
+    "health": 150,
+    "stress": 5,
+    "fatigue": 5,
+    "hunger": 10,
+    "sanity": 95,
+    "fear": 0,
+    "oxygen": 100,
+    "charm": 85,
+    "arousal": 15,
+    "addiction": 0,
+    "combat_skill": 95,
+    "tech_skill": 98,
+    "leadership": 92,
+    "luck": 60
+  },
+  "notes": "プレイヤーは全キャラと絡める万能型。名前欄は日本語入力（漢字・ひらがな・カタカナ）対応。"
+}
+
