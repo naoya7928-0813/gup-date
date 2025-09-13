@@ -1,0 +1,10 @@
+{
+  "school": "プラウダ高校",
+  "parameters": {
+    "PRAVDA-Katyusha": { "affection": 0, "trust": 0, "hostility": 0, "charm": 60, "stress": 0, "fear": 0, "sanity": 100, "hunger": 40, "fatigue": 0, "health": 100, "bowel_urge": 22, "bladder_urge": 34, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "PRAVDA-Nonna":    { "affection": 0, "trust": 0, "hostility": 0, "charm": 55, "stress": 0, "fear": 0, "sanity": 100, "hunger": 19, "fatigue": 0, "health": 100, "bowel_urge": 28, "bladder_urge": 47, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "PRAVDA-Klara":    { "affection": 0, "trust": 0, "hostility": 0, "charm": 52, "stress": 0, "fear": 0, "sanity": 100, "hunger": 61, "fatigue": 0, "health": 100, "bowel_urge": 11, "bladder_urge": 20, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "PRAVDA-Nina":     { "affection": 0, "trust": 0, "hostility": 0, "charm": 45, "stress": 0, "fear": 0, "sanity": 100, "hunger": 35, "fatigue": 0, "health": 100, "bowel_urge": 51, "bladder_urge": 26, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "PRAVDA-Arina":    { "affection": 0, "trust": 0, "hostility": 0, "charm": 46, "stress": 0, "fear": 0, "sanity": 100, "hunger": 28, "fatigue": 0, "health": 100, "bowel_urge": 44, "bladder_urge": 62, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 }
+  }
+}
