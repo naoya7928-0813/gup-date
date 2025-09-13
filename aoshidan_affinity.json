@@ -1,0 +1,9 @@
+{
+  "school": "青師団高校",
+  "parameters": {
+    "AOSHIDAN-El":          {"affection":0,"trust":0,"hostility":0,"charm":52,"stress":0,"fear":0,"sanity":100,"hunger":21,"fatigue":0,"health":100,"bowel_urge":49,"bladder_urge":30,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "AOSHIDAN-Viridiana":   {"affection":0,"trust":0,"hostility":0,"charm":47,"stress":0,"fear":0,"sanity":100,"hunger":58,"fatigue":0,"health":100,"bowel_urge":14,"bladder_urge":42,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "AOSHIDAN-Tristana":    {"affection":0,"trust":0,"hostility":0,"charm":47,"stress":0,"fear":0,"sanity":100,"hunger":34,"fatigue":0,"health":100,"bowel_urge":20,"bladder_urge":64,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "AOSHIDAN-Andalucia":   {"affection":0,"trust":0,"hostility":0,"charm":48,"stress":0,"fear":0,"sanity":100,"hunger":69,"fatigue":0,"health":100,"bowel_urge":16,"bladder_urge":25,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0}
+  }
+}
