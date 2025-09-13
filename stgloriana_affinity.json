@@ -1,0 +1,14 @@
+{
+  "school": "聖グロリアーナ女学院",
+  "parameters": {
+    "STGLO-Darjeeling":  { "affection": 0, "trust": 0, "hostility": 0, "charm": 62, "stress": 0, "fear": 0, "sanity": 100, "hunger": 31, "fatigue": 0, "health": 100, "bowel_urge": 40, "bladder_urge": 23, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "STGLO-ShimadaArisu":{ "affection": 0, "trust": 0, "hostility": 0, "charm": 61, "stress": 0, "fear": 0, "sanity": 100, "hunger": 22, "fatigue": 0, "health": 100, "bowel_urge": 34, "bladder_urge": 50, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "STGLO-OrangePekoe": { "affection": 0, "trust": 0, "hostility": 0, "charm": 49, "stress": 0, "fear": 0, "sanity": 100, "hunger": 57, "fatigue": 0, "health": 100, "bowel_urge": 13, "bladder_urge": 37, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "STGLO-Assam":       { "affection": 0, "trust": 0, "hostility": 0, "charm": 58, "stress": 0, "fear": 0, "sanity": 100, "hunger": 46, "fatigue": 0, "health": 100, "bowel_urge": 17, "bladder_urge": 29, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "STGLO-Rosehip":     { "affection": 0, "trust": 0, "hostility": 0, "charm": 54, "stress": 0, "fear": 0, "sanity": 100, "hunger": 69, "fatigue": 0, "health": 100, "bowel_urge": 20, "bladder_urge": 14, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "STGLO-Lucrille":    { "affection": 0, "trust": 0, "hostility": 0, "charm": 50, "stress": 0, "fear": 0, "sanity": 100, "hunger": 39, "fatigue": 0, "health": 100, "bowel_urge": 58, "bladder_urge": 33, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "STGLO-Cranberry":   { "affection": 0, "trust": 0, "hostility": 0, "charm": 51, "stress": 0, "fear": 0, "sanity": 100, "hunger": 26, "fatigue": 0, "health": 100, "bowel_urge": 36, "bladder_urge": 60, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "STGLO-Vanilla":     { "affection": 0, "trust": 0, "hostility": 0, "charm": 50, "stress": 0, "fear": 0, "sanity": 100, "hunger": 15, "fatigue": 0, "health": 100, "bowel_urge": 45, "bladder_urge": 21, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "STGLO-Peach":       { "affection": 0, "trust": 0, "hostility": 0, "charm": 53, "stress": 0, "fear": 0, "sanity": 100, "hunger": 64, "fatigue": 0, "health": 100, "bowel_urge": 9,  "bladder_urge": 42, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 }
+  }
+}
