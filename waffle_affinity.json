@@ -1,0 +1,7 @@
+{
+  "school": "ワッフル学院",
+  "parameters": {
+    "WAFFLE-Yuko":        {"affection":0,"trust":0,"hostility":0,"charm":54,"stress":0,"fear":0,"sanity":100,"hunger":39,"fatigue":0,"health":100,"bowel_urge":22,"bladder_urge":51,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "WAFFLE-Waterzooi":   {"affection":0,"trust":0,"hostility":0,"charm":55,"stress":0,"fear":0,"sanity":100,"hunger":17,"fatigue":0,"health":100,"bowel_urge":44,"bladder_urge":28,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0}
+  }
+}
