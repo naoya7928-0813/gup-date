@@ -1,0 +1,67 @@
+{
+  "school": "大洗女子学園",
+  "parameters": {
+    "OARAI-NishizumiMiho": {
+      "affection": 0,
+      "trust": 0,
+      "hostility": 0,
+      "charm": 50,
+      "stress": 0,
+      "fear": 0,
+      "sanity": 100,
+      "hunger": 27,
+      "fatigue": 0,
+      "health": 100,
+      "bowel_urge": 41,
+      "bladder_urge": 18,
+      "oxygen": 100,
+      "arousal": 0,
+      "dependency_player": 0,
+      "dependency_tank": 0
+    },
+    "OARAI-TakebeSaori": { "affection": 0, "trust": 0, "hostility": 0, "charm": 55, "stress": 0, "fear": 0, "sanity": 100, "hunger": 63, "fatigue": 0, "health": 100, "bowel_urge": 22, "bladder_urge": 66, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "OARAI-IsuzuHana":   { "affection": 0, "trust": 0, "hostility": 0, "charm": 60, "stress": 0, "fear": 0, "sanity": 100, "hunger": 39, "fatigue": 0, "health": 100, "bowel_urge": 8,  "bladder_urge": 30, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "OARAI-AkiyamaYukari":{ "affection": 0, "trust": 0, "hostility": 0, "charm": 48, "stress": 0, "fear": 0, "sanity": 100, "hunger": 52, "fatigue": 0, "health": 100, "bowel_urge": 35, "bladder_urge": 12, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "OARAI-ReizeiMako":  { "affection": 0, "trust": 0, "hostility": 0, "charm": 45, "stress": 0, "fear": 0, "sanity": 100, "hunger": 14, "fatigue": 0, "health": 100, "bowel_urge": 57, "bladder_urge": 20, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+
+    "OARAI-KadotaniAnzu":{ "affection": 0, "trust": 0, "hostility": 0, "charm": 52, "stress": 0, "fear": 0, "sanity": 100, "hunger": 46, "fatigue": 0, "health": 100, "bowel_urge": 26, "bladder_urge": 44, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "OARAI-KoyamaYuzu":  { "affection": 0, "trust": 0, "hostility": 0, "charm": 53, "stress": 0, "fear": 0, "sanity": 100, "hunger": 61, "fatigue": 0, "health": 100, "bowel_urge": 14, "bladder_urge": 37, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "OARAI-KawashimaMomo":{ "affection": 0,"trust": 0,"hostility": 0,"charm": 47,"stress": 0,"fear": 0,"sanity": 100,"hunger": 21,"fatigue": 0,"health": 100,"bowel_urge": 68,"bladder_urge": 29,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+
+    "OARAI-IsobeNoriko": { "affection": 0,"trust": 0,"hostility": 0,"charm": 49,"stress": 0,"fear": 0,"sanity": 100,"hunger": 58,"fatigue": 0,"health": 100,"bowel_urge": 33,"bladder_urge": 12,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+    "OARAI-KondoTaeko":  { "affection": 0,"trust": 0,"hostility": 0,"charm": 46,"stress": 0,"fear": 0,"sanity": 100,"hunger": 25,"fatigue": 0,"health": 100,"bowel_urge": 9, "bladder_urge": 74,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+    "OARAI-KasaiShinobu":{ "affection": 0,"trust": 0,"hostility": 0,"charm": 45,"stress": 0,"fear": 0,"sanity": 100,"hunger": 70,"fatigue": 0,"health": 100,"bowel_urge": 17,"bladder_urge": 22,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+    "OARAI-SasakiAkebi": { "affection": 0,"trust": 0,"hostility": 0,"charm": 50,"stress": 0,"fear": 0,"sanity": 100,"hunger": 33,"fatigue": 0,"health": 100,"bowel_urge": 47,"bladder_urge": 16,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+
+    "OARAI-Caesar":      { "affection": 0,"trust": 0,"hostility": 0,"charm": 48,"stress": 0,"fear": 0,"sanity": 100,"hunger": 44,"fatigue": 0,"health": 100,"bowel_urge": 28,"bladder_urge": 51,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+    "OARAI-Erwin":       { "affection": 0,"trust": 0,"hostility": 0,"charm": 52,"stress": 0,"fear": 0,"sanity": 100,"hunger": 17,"fatigue": 0,"health": 100,"bowel_urge": 36,"bladder_urge": 39,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+    "OARAI-Saemonza":    { "affection": 0,"trust": 0,"hostility": 0,"charm": 49,"stress": 0,"fear": 0,"sanity": 100,"hunger": 62,"fatigue": 0,"health": 100,"bowel_urge": 24,"bladder_urge": 10,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+    "OARAI-Oryou":       { "affection": 0,"trust": 0,"hostility": 0,"charm": 46,"stress": 0,"fear": 0,"sanity": 100,"hunger": 29,"fatigue": 0,"health": 100,"bowel_urge": 61,"bladder_urge": 14,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+
+    "OARAI-SawaAzusa":   { "affection": 0,"trust": 0,"hostility": 0,"charm": 50,"stress": 0,"fear": 0,"sanity": 100,"hunger": 48,"fatigue": 0,"health": 100,"bowel_urge": 7, "bladder_urge": 58,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+    "OARAI-YamagouAyumi":{ "affection": 0,"trust": 0,"hostility": 0,"charm": 44,"stress": 0,"fear": 0,"sanity": 100,"hunger": 36,"fatigue": 0,"health": 100,"bowel_urge": 19,"bladder_urge": 63,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+    "OARAI-MaruyamaSaki":{ "affection": 0,"trust": 0,"hostility": 0,"charm": 43,"stress": 0,"fear": 0,"sanity": 100,"hunger": 59,"fatigue": 0,"health": 100,"bowel_urge": 12,"bladder_urge": 31,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+    "OARAI-SakaguchiKarina":{ "affection": 0,"trust": 0,"hostility": 0,"charm": 45,"stress": 0,"fear": 0,"sanity": 100,"hunger": 53,"fatigue": 0,"health": 100,"bowel_urge": 27,"bladder_urge": 49,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+    "OARAI-UtsugiYuki":  { "affection": 0,"trust": 0,"hostility": 0,"charm": 46,"stress": 0,"fear": 0,"sanity": 100,"hunger": 18,"fatigue": 0,"health": 100,"bowel_urge": 55,"bladder_urge": 21,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+    "OARAI-OonoAya":     { "affection": 0,"trust": 0,"hostility": 0,"charm": 47,"stress": 0,"fear": 0,"sanity": 100,"hunger": 65,"fatigue": 0,"health": 100,"bowel_urge": 42,"bladder_urge": 9, "oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+
+    "OARAI-Sodo":        { "affection": 0,"trust": 0,"hostility": 0,"charm": 48,"stress": 0,"fear": 0,"sanity": 100,"hunger": 34,"fatigue": 0,"health": 100,"bowel_urge": 32,"bladder_urge": 46,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+    "OARAI-Gomoyo":      { "affection": 0,"trust": 0,"hostility": 0,"charm": 44,"stress": 0,"fear": 0,"sanity": 100,"hunger": 22,"fatigue": 0,"health": 100,"bowel_urge": 40,"bladder_urge": 57,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+    "OARAI-Pazomi":      { "affection": 0,"trust": 0,"hostility": 0,"charm": 45,"stress": 0,"fear": 0,"sanity": 100,"hunger": 77,"fatigue": 0,"health": 100,"bowel_urge": 15,"bladder_urge": 25,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+
+    "OARAI-NakajimaReira":{ "affection": 0,"trust": 0,"hostility": 0,"charm": 49,"stress": 0,"fear": 0,"sanity": 100,"hunger": 51,"fatigue": 0,"health": 100,"bowel_urge": 20,"bladder_urge": 33,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+    "OARAI-SuzukiMaria": { "affection": 0,"trust": 0,"hostility": 0,"charm": 47,"stress": 0,"fear": 0,"sanity": 100,"hunger": 24,"fatigue": 0,"health": 100,"bowel_urge": 52,"bladder_urge": 18,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+    "OARAI-HoshinoKeiko":{ "affection": 0,"trust": 0,"hostility": 0,"charm": 48,"stress": 0,"fear": 0,"sanity": 100,"hunger": 69,"fatigue": 0,"health": 100,"bowel_urge": 11,"bladder_urge": 54,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+    "OARAI-TsuchiyaYumeton":{ "affection": 0,"trust": 0,"hostility": 0,"charm": 46,"stress": 0,"fear": 0,"sanity": 100,"hunger": 31,"fatigue": 0,"health": 100,"bowel_urge": 64,"bladder_urge": 13,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+
+    "OARAI-Nekonyaa":   { "affection": 0,"trust": 0,"hostility": 0,"charm": 45,"stress": 0,"fear": 0,"sanity": 100,"hunger": 43,"fatigue": 0,"health": 100,"bowel_urge": 23,"bladder_urge": 41,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+    "OARAI-Momoga":     { "affection": 0,"trust": 0,"hostility": 0,"charm": 44,"stress": 0,"fear": 0,"sanity": 100,"hunger": 12,"fatigue": 0,"health": 100,"bowel_urge": 37,"bladder_urge": 28,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+    "OARAI-Piyotann":   { "affection": 0,"trust": 0,"hostility": 0,"charm": 46,"stress": 0,"fear": 0,"sanity": 100,"hunger": 55,"fatigue": 0,"health": 100,"bowel_urge": 30,"bladder_urge": 35,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+
+    "OARAI-Ogin":       { "affection": 0,"trust": 0,"hostility": 0,"charm": 50,"stress": 0,"fear": 0,"sanity": 100,"hunger": 26,"fatigue": 0,"health": 100,"bowel_urge": 59,"bladder_urge": 24,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+    "OARAI-Ram":        { "affection": 0,"trust": 0,"hostility": 0,"charm": 47,"stress": 0,"fear": 0,"sanity": 100,"hunger": 73,"fatigue": 0,"health": 100,"bowel_urge": 18,"bladder_urge": 48,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+    "OARAI-Murakami":   { "affection": 0,"trust": 0,"hostility": 0,"charm": 46,"stress": 0,"fear": 0,"sanity": 100,"hunger": 37,"fatigue": 0,"health": 100,"bowel_urge": 45,"bladder_urge": 27,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+    "OARAI-Flint":      { "affection": 0,"trust": 0,"hostility": 0,"charm": 48,"stress": 0,"fear": 0,"sanity": 100,"hunger": 16,"fatigue": 0,"health": 100,"bowel_urge": 40,"bladder_urge": 62,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 },
+    "OARAI-Cutlass":    { "affection": 0,"trust": 0,"hostility": 0,"charm": 49,"stress": 0,"fear": 0,"sanity": 100,"hunger": 67,"fatigue": 0,"health": 100,"bowel_urge": 13,"bladder_urge": 34,"oxygen": 100,"arousal": 0,"dependency_player": 0,"dependency_tank": 0 }
+  }
+}
