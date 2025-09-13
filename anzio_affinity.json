@@ -1,0 +1,8 @@
+{
+  "school": "アンツィオ高校",
+  "parameters": {
+    "ANZIO-Anchovy":   { "affection": 0, "trust": 0, "hostility": 0, "charm": 56, "stress": 0, "fear": 0, "sanity": 100, "hunger": 68, "fatigue": 0, "health": 100, "bowel_urge": 14, "bladder_urge": 24, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "ANZIO-Carpaccio": { "affection": 0, "trust": 0, "hostility": 0, "charm": 54, "stress": 0, "fear": 0, "sanity": 100, "hunger": 19, "fatigue": 0, "health": 100, "bowel_urge": 48, "bladder_urge": 35, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 },
+    "ANZIO-Pepperoni": { "affection": 0, "trust": 0, "hostility": 0, "charm": 50, "stress": 0, "fear": 0, "sanity": 100, "hunger": 73, "fatigue": 0, "health": 100, "bowel_urge": 20, "bladder_urge": 10, "oxygen": 100, "arousal": 0, "dependency_player": 0, "dependency_tank": 0 }
+  }
+}
