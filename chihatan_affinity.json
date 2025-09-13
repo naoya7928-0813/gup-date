@@ -1,0 +1,18 @@
+{
+  "school": "知波単学園",
+  "parameters": {
+    "CHIHATAN-NishiKinuyo":       {"affection":0,"trust":0,"hostility":0,"charm":53,"stress":0,"fear":0,"sanity":100,"hunger":41,"fatigue":0,"health":100,"bowel_urge":22,"bladder_urge":61,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "CHIHATAN-FukudaHaru":        {"affection":0,"trust":0,"hostility":0,"charm":50,"stress":0,"fear":0,"sanity":100,"hunger":62,"fatigue":0,"health":100,"bowel_urge":15,"bladder_urge":37,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "CHIHATAN-TamadaTamaki":      {"affection":0,"trust":0,"hostility":0,"charm":49,"stress":0,"fear":0,"sanity":100,"hunger":73,"fatigue":0,"health":100,"bowel_urge":12,"bladder_urge":28,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "CHIHATAN-HosomiShizuko":     {"affection":0,"trust":0,"hostility":0,"charm":48,"stress":0,"fear":0,"sanity":100,"hunger":26,"fatigue":0,"health":100,"bowel_urge":40,"bladder_urge":19,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "CHIHATAN-HamadaKiyo":        {"affection":0,"trust":0,"hostility":0,"charm":47,"stress":0,"fear":0,"sanity":100,"hunger":34,"fatigue":0,"health":100,"bowel_urge":58,"bladder_urge":31,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "CHIHATAN-IkedaEmi":          {"affection":0,"trust":0,"hostility":0,"charm":46,"stress":0,"fear":0,"sanity":100,"hunger":15,"fatigue":0,"health":100,"bowel_urge":33,"bladder_urge":12,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "CHIHATAN-TeramotoTomiko":    {"affection":0,"trust":0,"hostility":0,"charm":45,"stress":0,"fear":0,"sanity":100,"hunger":68,"fatigue":0,"health":100,"bowel_urge":20,"bladder_urge":47,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "CHIHATAN-NakuraSetsuko":     {"affection":0,"trust":0,"hostility":0,"charm":46,"stress":0,"fear":0,"sanity":100,"hunger":59,"fatigue":0,"health":100,"bowel_urge":14,"bladder_urge":52,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "CHIHATAN-KubotaRin":         {"affection":0,"trust":0,"hostility":0,"charm":47,"stress":0,"fear":0,"sanity":100,"hunger":21,"fatigue":0,"health":100,"bowel_urge":64,"bladder_urge":24,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "CHIHATAN-NishiharaYasoko":   {"affection":0,"trust":0,"hostility":0,"charm":44,"stress":0,"fear":0,"sanity":100,"hunger":36,"fatigue":0,"health":100,"bowel_urge":27,"bladder_urge":39,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "CHIHATAN-KaminishiChiyoko":  {"affection":0,"trust":0,"hostility":0,"charm":44,"stress":0,"fear":0,"sanity":100,"hunger":52,"fatigue":0,"health":100,"bowel_urge":46,"bladder_urge":18,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "CHIHATAN-HasegawaTatsu":     {"affection":0,"trust":0,"hostility":0,"charm":45,"stress":0,"fear":0,"sanity":100,"hunger":13,"fatigue":0,"health":100,"bowel_urge":41,"bladder_urge":60,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "CHIHATAN-HiraiHanako":       {"affection":0,"trust":0,"hostility":0,"charm":43,"stress":0,"fear":0,"sanity":100,"hunger":75,"fatigue":0,"health":100,"bowel_urge":11,"bladder_urge":35,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0}
+  }
+}
