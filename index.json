@@ -1,25 +1,107 @@
 {
   "schools": {
-    "ouarai": "https://naoya7928-0813.github.io/gup-date/ouarai.json",
-    "kuromorimine": "https://naoya7928-0813.github.io/gup-date/kuromorimine.json",
-    "pravda": "https://naoya7928-0813.github.io/gup-date/pravda.json",
-    "stgloriana": "https://naoya7928-0813.github.io/gup-date/stgloriana.json",
-    "saunders": "https://naoya7928-0813.github.io/gup-date/saunders.json",
-    "anzio": "https://naoya7928-0813.github.io/gup-date/anzio.json",
-    "chihatan": "https://naoya7928-0813.github.io/gup-date/chihatan.json",
-    "bcfreedom": "https://naoya7928-0813.github.io/gup-date/bcfreedom.json",
-    "keizoku": "https://naoya7928-0813.github.io/gup-date/keizoku.json",
-    "university": "https://naoya7928-0813.github.io/gup-date/university.json",
-    "koara": "https://naoya7928-0813.github.io/gup-date/koara.json",
-    "maginot": "https://naoya7928-0813.github.io/gup-date/maginot.json",
-    "viking": "https://naoya7928-0813.github.io/gup-date/viking.json",
-    "aoshidan": "https://naoya7928-0813.github.io/gup-date/aoshidan.json",
-    "waffle": "https://naoya7928-0813.github.io/gup-date/waffle.json",
-    "yogurt": "https://naoya7928-0813.github.io/gup-date/yogurt.json",
-    "bonple": "https://naoya7928-0813.github.io/gup-date/bonple.json",
-    "neutral": "https://naoya7928-0813.github.io/gup-date/neutral.json",
-    "jsdf": "https://naoya7928-0813.github.io/gup-date/jsdf.json",
-    "federation": "https://naoya7928-0813.github.io/gup-date/federation.json",
-    "others": "https://naoya7928-0813.github.io/gup-date/others.json"
+    "oarai": {
+      "main": "https://naoya7928-0813.github.io/gup-date/oarai.json",
+      "tanks": "https://naoya7928-0813.github.io/gup-date/oarai_tanks.json",
+      "affinity": "https://naoya7928-0813.github.io/gup-date/oarai_affinity.json"
+    },
+    "kuromorimine": {
+      "main": "https://naoya7928-0813.github.io/gup-date/kuromorimine.json",
+      "tanks": "https://naoya7928-0813.github.io/gup-date/kuromorimine_tanks.json",
+      "affinity": "https://naoya7928-0813.github.io/gup-date/kuromorimune_affinity.json"
+    },
+    "pravda": {
+      "main": "https://naoya7928-0813.github.io/gup-date/pravda.json",
+      "tanks": "https://naoya7928-0813.github.io/gup-date/pravda_tanks.json",
+      "affinity": "https://naoya7928-0813.github.io/gup-date/pravda_affinity.json"
+    },
+    "stgloriana": {
+      "main": "https://naoya7928-0813.github.io/gup-date/stgloriana.json",
+      "tanks": "https://naoya7928-0813.github.io/gup-date/stgloriana_tanks.json",
+      "affinity": "https://naoya7928-0813.github.io/gup-date/stgloriana_affinity.json"
+    },
+    "saunders": {
+      "main": "https://naoya7928-0813.github.io/gup-date/saunders.json",
+      "tanks": "https://naoya7928-0813.github.io/gup-date/saunders_tanks.json",
+      "affinity": "https://naoya7928-0813.github.io/gup-date/saunders_affinity.json"
+    },
+    "anzio": {
+      "main": "https://naoya7928-0813.github.io/gup-date/anzio.json",
+      "tanks": "https://naoya7928-0813.github.io/gup-date/anzio_tanks.json",
+      "affinity": "https://naoya7928-0813.github.io/gup-date/anzio_affinity.json"
+    },
+    "chihatan": {
+      "main": "https://naoya7928-0813.github.io/gup-date/chihatan.json",
+      "tanks": "https://naoya7928-0813.github.io/gup-date/chihatan_tanks.json",
+      "affinity": "https://naoya7928-0813.github.io/gup-date/chihatan_affinity.json"
+    },
+    "bcfreedom": {
+      "main": "https://naoya7928-0813.github.io/gup-date/bcfreedom.json",
+      "tanks": "https://naoya7928-0813.github.io/gup-date/bcfreedom_tanks.json",
+      "affinity": "https://naoya7928-0813.github.io/gup-date/bcfreedom_affinity.json"
+    },
+    "keizoku": {
+      "main": "https://naoya7928-0813.github.io/gup-date/keizoku.json",
+      "tanks": "https://naoya7928-0813.github.io/gup-date/keizoku_tanks.json",
+      "affinity": "https://naoya7928-0813.github.io/gup-date/keizoku_affinity.json"
+    },
+    "university": {
+      "main": "https://naoya7928-0813.github.io/gup-date/university.json",
+      "tanks": "https://naoya7928-0813.github.io/gup-date/university_tanks.json",
+      "affinity": "https://naoya7928-0813.github.io/gup-date/university_affinity.json"
+    },
+    "koala": {
+      "main": "https://naoya7928-0813.github.io/gup-date/koala.json",
+      "tanks": "https://naoya7928-0813.github.io/gup-date/koara_tanks.json",
+      "affinity": "https://naoya7928-0813.github.io/gup-date/koara_affinity.json"
+    },
+    "maginot": {
+      "main": "https://naoya7928-0813.github.io/gup-date/maginot.json",
+      "tanks": "https://naoya7928-0813.github.io/gup-date/maginot_tanks.json",
+      "affinity": "https://naoya7928-0813.github.io/gup-date/maginot_affinity.json"
+    },
+    "viking": {
+      "main": "https://naoya7928-0813.github.io/gup-date/viking.json",
+      "tanks": "https://naoya7928-0813.github.io/gup-date/viking_tanks.json",
+      "affinity": "https://naoya7928-0813.github.io/gup-date/viking_affinity.json"
+    },
+    "aoshidan": {
+      "main": "https://naoya7928-0813.github.io/gup-date/aoshidan.json",
+      "tanks": "https://naoya7928-0813.github.io/gup-date/aoshidan_tanks.json",
+      "affinity": "https://naoya7928-0813.github.io/gup-date/aoshidan_affinity.json"
+    },
+    "waffle": {
+      "main": "https://naoya7928-0813.github.io/gup-date/waffle.json",
+      "tanks": "https://naoya7928-0813.github.io/gup-date/waffle_tanks.json",
+      "affinity": "https://naoya7928-0813.github.io/gup-date/waffle_affinity.json"
+    },
+    "yogurt": {
+      "main": "https://naoya7928-0813.github.io/gup-date/yogurt.json",
+      "tanks": "https://naoya7928-0813.github.io/gup-date/yogurt_tanks.json",
+      "affinity": "https://naoya7928-0813.github.io/gup-date/yogurt_affinity.json"
+    },
+    "bonple": {
+      "main": "https://naoya7928-0813.github.io/gup-date/bonple.json",
+      "tanks": "https://naoya7928-0813.github.io/gup-date/bonple_tanks.json",
+      "affinity": "https://naoya7928-0813.github.io/gup-date/bomple_affinity.json"
+    },
+    "neutral": {
+      "main": "https://naoya7928-0813.github.io/gup-date/neutral.json",
+      "affinity": "https://naoya7928-0813.github.io/gup-date/neutral_affinity.json"
+    },
+    "jgsdf": {
+      "main": "https://naoya7928-0813.github.io/gup-date/jgsdf.json",
+      "tanks": "https://naoya7928-0813.github.io/gup-date/jgsdf_tanks.json",
+      "affinity": "https://naoya7928-0813.github.io/gup-date/jgsdf_affinity.json"
+    },
+    "federation": {
+      "main": "https://naoya7928-0813.github.io/gup-date/federation.json",
+      "affinity": "https://naoya7928-0813.github.io/gup-date/federation_affinity.json"
+    },
+    "others": {
+      "main": "https://naoya7928-0813.github.io/gup-date/others.json",
+      "tanks": "https://naoya7928-0813.github.io/gup-date/others_tanks.json",
+      "affinity": "https://naoya7928-0813.github.io/gup-date/others_affinity.json"
+    }
   }
 }
