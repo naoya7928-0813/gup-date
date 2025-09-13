@@ -1,0 +1,8 @@
+{
+  "school": "大学選抜チーム",
+  "parameters": {
+    "UNIV-Megumi":       {"affection":0,"trust":0,"hostility":0,"charm":52,"stress":0,"fear":0,"sanity":100,"hunger":48,"fatigue":0,"health":100,"bowel_urge":24,"bladder_urge":59,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "UNIV-Azumi":        {"affection":0,"trust":0,"hostility":0,"charm":52,"stress":0,"fear":0,"sanity":100,"hunger":19,"fatigue":0,"health":100,"bowel_urge":34,"bladder_urge":26,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "UNIV-Rumi":         {"affection":0,"trust":0,"hostility":0,"charm":52,"stress":0,"fear":0,"sanity":100,"hunger":61,"fatigue":0,"health":100,"bowel_urge":15,"bladder_urge":32,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0}
+  }
+}
