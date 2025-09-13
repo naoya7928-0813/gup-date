@@ -1,0 +1,25 @@
+{
+  "schools": {
+    "ouarai": "https://naoya7928-0813.github.io/gup-date/ouarai.json",
+    "kuromorimine": "https://naoya7928-0813.github.io/gup-date/kuromorimine.json",
+    "pravda": "https://naoya7928-0813.github.io/gup-date/pravda.json",
+    "stgloriana": "https://naoya7928-0813.github.io/gup-date/stgloriana.json",
+    "saunders": "https://naoya7928-0813.github.io/gup-date/saunders.json",
+    "anzio": "https://naoya7928-0813.github.io/gup-date/anzio.json",
+    "chihatan": "https://naoya7928-0813.github.io/gup-date/chihatan.json",
+    "bcfreedom": "https://naoya7928-0813.github.io/gup-date/bcfreedom.json",
+    "keizoku": "https://naoya7928-0813.github.io/gup-date/keizoku.json",
+    "university": "https://naoya7928-0813.github.io/gup-date/university.json",
+    "koara": "https://naoya7928-0813.github.io/gup-date/koara.json",
+    "maginot": "https://naoya7928-0813.github.io/gup-date/maginot.json",
+    "viking": "https://naoya7928-0813.github.io/gup-date/viking.json",
+    "aoshidan": "https://naoya7928-0813.github.io/gup-date/aoshidan.json",
+    "waffle": "https://naoya7928-0813.github.io/gup-date/waffle.json",
+    "yogurt": "https://naoya7928-0813.github.io/gup-date/yogurt.json",
+    "bonple": "https://naoya7928-0813.github.io/gup-date/bonple.json",
+    "neutral": "https://naoya7928-0813.github.io/gup-date/neutral.json",
+    "jsdf": "https://naoya7928-0813.github.io/gup-date/jsdf.json",
+    "federation": "https://naoya7928-0813.github.io/gup-date/federation.json",
+    "others": "https://naoya7928-0813.github.io/gup-date/others.json"
+  }
+}
