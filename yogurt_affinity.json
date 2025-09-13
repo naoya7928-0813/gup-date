@@ -1,0 +1,6 @@
+{
+  "school": "ヨーグルト学園",
+  "parameters": {
+    "YOGURT-Sophia": {"affection":0,"trust":0,"hostility":0,"charm":50,"stress":0,"fear":0,"sanity":100,"hunger":72,"fatigue":0,"health":100,"bowel_urge":13,"bladder_urge":36,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0}
+  }
+}
