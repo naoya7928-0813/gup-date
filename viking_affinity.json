@@ -1,0 +1,6 @@
+{
+  "school": "ヴァイキング水産高校",
+  "parameters": {
+    "VIKING-Kebiko": {"affection":0,"trust":0,"hostility":0,"charm":53,"stress":0,"fear":0,"sanity":100,"hunger":66,"fatigue":0,"health":100,"bowel_urge":26,"bladder_urge":11,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0}
+  }
+}
