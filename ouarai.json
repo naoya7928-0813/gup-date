@@ -5,80 +5,80 @@
       "team_name": "あんこうチーム",
       "category": "戦車道チーム本隊",
       "members": [
-        { "name": "西住 みほ", "role": "車長" },
-        { "name": "武部 沙織", "role": "通信手" },
-        { "name": "五十鈴 華", "role": "砲手" },
-        { "name": "秋山 優花里", "role": "装填手" },
-        { "name": "冷泉 麻子", "role": "操縦手" }
+        { "id": "ooarai-ankou-miho", "name": "西住 みほ", "role": "車長" },
+        { "id": "ooarai-ankou-saori", "name": "武部 沙織", "role": "通信手" },
+        { "id": "ooarai-ankou-hana", "name": "五十鈴 華", "role": "砲手" },
+        { "id": "ooarai-ankou-yukari", "name": "秋山 優花里", "role": "装填手" },
+        { "id": "ooarai-ankou-mako", "name": "冷泉 麻子", "role": "操縦手" }
       ]
     },
     {
       "team_name": "カメさんチーム",
       "category": "前生徒会チーム",
       "members": [
-        { "name": "角谷 杏", "role": "車長" },
-        { "name": "小山 柚子", "role": "操縦手" },
-        { "name": "河嶋 桃", "role": "装填手・砲手・通信手" }
+        { "id": "ooarai-kame-anzu", "name": "角谷 杏", "role": "車長" },
+        { "id": "ooarai-kame-yuzu", "name": "小山 柚子", "role": "操縦手" },
+        { "id": "ooarai-kame-momo", "name": "河嶋 桃", "role": "装填手・砲手・通信手" }
       ]
     },
     {
       "team_name": "アヒルさんチーム",
       "category": "バレー部チーム",
       "members": [
-        { "name": "磯辺 典子", "role": "車長" },
-        { "name": "近藤 妙子", "role": "通信手" },
-        { "name": "河西 忍", "role": "操縦手" },
-        { "name": "佐々木 あけび", "role": "砲手" }
+        { "id": "ooarai-ahiru-noriko", "name": "磯辺 典子", "role": "車長" },
+        { "id": "ooarai-ahiru-taeko", "name": "近藤 妙子", "role": "通信手" },
+        { "id": "ooarai-ahiru-shinobu", "name": "河西 忍", "role": "操縦手" },
+        { "id": "ooarai-ahiru-akebi", "name": "佐々木 あけび", "role": "砲手" }
       ]
     },
     {
       "team_name": "カバさんチーム",
       "category": "歴女チーム",
       "members": [
-        { "name": "カエサル", "role": "砲手" },
-        { "name": "エルヴィン", "role": "車長・通信手" },
-        { "name": "左衛門佐", "role": "装填手" },
-        { "name": "おりょう", "role": "操縦手" }
+        { "id": "ooarai-kaba-caesar", "name": "カエサル", "role": "砲手" },
+        { "id": "ooarai-kaba-erwin", "name": "エルヴィン", "role": "車長・通信手" },
+        { "id": "ooarai-kaba-saemonza", "name": "左衛門佐", "role": "装填手" },
+        { "id": "ooarai-kaba-oryou", "name": "おりょう", "role": "操縦手" }
       ]
     },
     {
       "team_name": "ウサギさんチーム",
       "category": "1年生チーム",
       "members": [
-        { "name": "澤 梓", "role": "車長" },
-        { "name": "山郷 あゆみ", "role": "75mm主砲 砲手" },
-        { "name": "丸山 紗希", "role": "37mm副砲 装填手" },
-        { "name": "阪口 桂利奈", "role": "操縦手" },
-        { "name": "宇津木 優季", "role": "通信手" },
-        { "name": "大野 あや", "role": "37mm副砲 砲手" }
+        { "id": "ooarai-usagi-azusa", "name": "澤 梓", "role": "車長" },
+        { "id": "ooarai-usagi-ayumi", "name": "山郷 あゆみ", "role": "75mm主砲 砲手" },
+        { "id": "ooarai-usagi-saki", "name": "丸山 紗希", "role": "37mm副砲 装填手" },
+        { "id": "ooarai-usagi-katrina", "name": "阪口 桂利奈", "role": "操縦手" },
+        { "id": "ooarai-usagi-yuuki", "name": "宇津木 優季", "role": "通信手" },
+        { "id": "ooarai-usagi-aya", "name": "大野 あや", "role": "37mm副砲 砲手" }
       ]
     },
     {
       "team_name": "カモさんチーム",
       "category": "風紀委員チーム",
       "members": [
-        { "name": "園 みどり子（そど子）", "role": "車長・副砲 砲手・副砲 装填手" },
-        { "name": "後藤 モヨ子（ごも代）", "role": "操縦手" },
-        { "name": "金春 希美（パゾ美）", "role": "主砲 砲手・通信手" }
+        { "id": "ooarai-kamo-sodoko", "name": "園 みどり子（そど子）", "role": "車長・副砲 砲手・副砲 装填手" },
+        { "id": "ooarai-kamo-gomoyo", "name": "後藤 モヨ子（ごも代）", "role": "操縦手" },
+        { "id": "ooarai-kamo-pazomi", "name": "金春 希美（パゾ美）", "role": "主砲 砲手・通信手" }
       ]
     },
     {
       "team_name": "レオポンさんチーム",
       "category": "自動車部チーム",
       "members": [
-        { "name": "ナカジマ（中嶋 麗羅）", "role": "車長・通信手" },
-        { "name": "スズキ（鈴木 真莉阿）", "role": "装填手" },
-        { "name": "ホシノ（星野 慶子）", "role": "砲手" },
-        { "name": "ツチヤ（土屋 夢屯）", "role": "操縦手" }
+        { "id": "ooarai-leopon-nakajima", "name": "ナカジマ（中嶋 麗羅）", "role": "車長・通信手" },
+        { "id": "ooarai-leopon-suzuki", "name": "スズキ（鈴木 真莉阿）", "role": "装填手" },
+        { "id": "ooarai-leopon-hoshino", "name": "ホシノ（星野 慶子）", "role": "砲手" },
+        { "id": "ooarai-leopon-tsuchiya", "name": "ツチヤ（土屋 夢屯）", "role": "操縦手" }
       ]
     },
     {
       "team_name": "アリクイさんチーム",
       "category": "ネット戦車ゲームチーム",
       "members": [
-        { "name": "ねこにゃー（猫田 舞）", "role": "車長・通信手" },
-        { "name": "ももがー（百瀬 多希）", "role": "操縦手" },
-        { "name": "ぴよたん（日吉 葵）", "role": "砲手" }
+        { "id": "ooarai-arikui-nekonya", "name": "ねこにゃー（猫田 舞）", "role": "車長・通信手" },
+        { "id": "ooarai-arikui-momoga", "name": "ももがー（百瀬 多希）", "role": "操縦手" },
+        { "id": "ooarai-arikui-piyotan", "name": "ぴよたん（日吉 葵）", "role": "砲手" }
       ]
     },
     {
@@ -86,11 +86,11 @@
       "category": "船舶科チーム",
       "notes": "ニックネーム設定あり",
       "members": [
-        { "name": "お銀", "role": "車長", "nickname": "竜巻のお銀" },
-        { "name": "ラム", "role": "操縦手", "nickname": "爆弾低気圧のラム" },
-        { "name": "ムラカミ", "role": "砲手", "nickname": "サルガッソーのムラカミ" },
-        { "name": "フリント", "role": "操縦手・通信手", "nickname": "大波のフリント" },
-        { "name": "カトラス", "role": "砲手", "nickname": "生しらす丼のカトラス" }
+        { "id": "ooarai-same-ogin", "name": "お銀", "role": "車長", "nickname": "竜巻のお銀" },
+        { "id": "ooarai-same-ram", "name": "ラム", "role": "操縦手", "nickname": "爆弾低気圧のラム" },
+        { "id": "ooarai-same-murakami", "name": "ムラカミ", "role": "砲手", "nickname": "サルガッソーのムラカミ" },
+        { "id": "ooarai-same-flint", "name": "フリント", "role": "操縦手・通信手", "nickname": "大波のフリント" },
+        { "id": "ooarai-same-cutlass", "name": "カトラス", "role": "砲手", "nickname": "生しらす丼のカトラス" }
       ]
     }
   ]
