@@ -5,19 +5,54 @@
       "team_name": "あんこうチーム",
       "category": "戦車道チーム本隊",
       "members": [
-        { "id": "ooarai-ankou-miho", "name": "西住 みほ", "role": "車長" },
-        { "id": "ooarai-ankou-saori", "name": "武部 沙織", "role": "通信手" },
-        { "id": "ooarai-ankou-hana", "name": "五十鈴 華", "role": "砲手" },
-        { "id": "ooarai-ankou-yukari", "name": "秋山 優花里", "role": "装填手" },
-        { "id": "ooarai-ankou-mako", "name": "冷泉 麻子", "role": "操縦手" }
+        {
+          "id": "ooarai-ankou-miho",
+          "name": "西住 みほ",
+          "role": "車長",
+          "profile": "大洗女子学園戦車道チーム隊長。Ⅳ号戦車H型（D型改）・あんこうチーム車長。西住流家元の次女で、大学選抜戦でも勝利を導いた。ほんわかだが臨機応変な戦術でチームをまとめる。"
+        },
+        {
+          "id": "ooarai-ankou-saori",
+          "name": "武部 沙織",
+          "role": "通信手",
+          "profile": "新生徒会広報。恋愛に憧れるが面倒見が良く料理上手。携帯メール早打ちとアマチュア無線など高いコミュ力で貢献。"
+        },
+        {
+          "id": "ooarai-ankou-hana",
+          "name": "五十鈴 華",
+          "role": "砲手",
+          "profile": "新生徒会会長。華道家元の娘。おっとりだが芯が強く、華道で培った集中力で高精度の射撃を行う。沙織には容赦なくツッコミも。"
+        },
+        {
+          "id": "ooarai-ankou-yukari",
+          "name": "秋山 優花里",
+          "role": "装填手",
+          "profile": "新生徒会副会長。根っからの戦車好き。装填だけでなく豊富な知識と大胆な偵察行動でチームを支える。みほを心から尊敬。"
+        },
+        {
+          "id": "ooarai-ankou-mako",
+          "name": "冷泉 麻子",
+          "role": "操縦手",
+          "profile": "成績優秀だが朝に弱い。マニュアル一読で操縦を会得する天才で、みほの意図通りにⅣ号を操る。ケーキと睡眠が大好き。"
+        }
       ]
     },
     {
       "team_name": "カメさんチーム",
       "category": "前生徒会チーム",
       "members": [
-        { "id": "ooarai-kame-anzu", "name": "角谷 杏", "role": "車長" },
-        { "id": "ooarai-kame-yuzu", "name": "小山 柚子", "role": "操縦手" },
+        {
+          "id": "ooarai-kame-anzu",
+          "name": "角谷 杏",
+          "role": "車長",
+          "profile": "ヘッツァー（38(t)改）車長。前生徒会長。強引だが人情に厚く学園想い。戦車道へみほを引き込んだ。干し芋が好物。"
+        },
+        {
+          "id": "ooarai-kame-yuzu",
+          "name": "小山 柚子",
+          "role": "操縦手",
+          "profile": "前生徒会副会長。杏の右腕として実務を切り盛り。操縦適性が高く、プラウダ戦で38(t)を巧みに操り勝利に貢献。"
+        },
         { "id": "ooarai-kame-momo", "name": "河嶋 桃", "role": "装填手・砲手・通信手" }
       ]
     },
@@ -25,60 +60,180 @@
       "team_name": "アヒルさんチーム",
       "category": "バレー部チーム",
       "members": [
-        { "id": "ooarai-ahiru-noriko", "name": "磯辺 典子", "role": "車長" },
-        { "id": "ooarai-ahiru-taeko", "name": "近藤 妙子", "role": "通信手" },
-        { "id": "ooarai-ahiru-shinobu", "name": "河西 忍", "role": "操縦手" },
-        { "id": "ooarai-ahiru-akebi", "name": "佐々木 あけび", "role": "砲手" }
+        {
+          "id": "ooarai-ahiru-noriko",
+          "name": "磯辺 典子",
+          "role": "車長",
+          "profile": "八九式中戦車甲型の車長兼装填手。バレー部再興を夢見る熱血少女。口癖は「ちょっとだけ頭使って、あとは根性―！」"
+        },
+        {
+          "id": "ooarai-ahiru-taeko",
+          "name": "近藤 妙子",
+          "role": "通信手",
+          "profile": "赤い鉢巻がトレードマーク。ジャンプサーブが得意で、冷静なツッコミ役になることも。"
+        },
+        {
+          "id": "ooarai-ahiru-shinobu",
+          "name": "河西 忍",
+          "role": "操縦手",
+          "profile": "おっとり我慢強いアタッカー。試合を通じて操縦技量が向上。"
+        },
+        {
+          "id": "ooarai-ahiru-akebi",
+          "name": "佐々木 あけび",
+          "role": "砲手",
+          "profile": "命中精度は高いが、八九式の砲の威力不足に悩む。ブロックが得意。"
+        }
       ]
     },
     {
       "team_name": "カバさんチーム",
       "category": "歴女チーム",
       "members": [
-        { "id": "ooarai-kaba-caesar", "name": "カエサル", "role": "砲手" },
-        { "id": "ooarai-kaba-erwin", "name": "エルヴィン", "role": "車長・通信手" },
-        { "id": "ooarai-kaba-saemonza", "name": "左衛門佐", "role": "装填手" },
-        { "id": "ooarai-kaba-oryou", "name": "おりょう", "role": "操縦手" }
+        {
+          "id": "ooarai-kaba-caesar",
+          "name": "カエサル",
+          "role": "砲手",
+          "profile": "Ⅲ号突撃砲F型。歴女チームのリーダー的存在で装填手を兼ねる設定もあるが、チーム内ではローマ史通の砲手役。"
+        },
+        {
+          "id": "ooarai-kaba-erwin",
+          "name": "エルヴィン",
+          "role": "車長・通信手",
+          "profile": "カバさんチームの車長兼通信手。ロンメルを敬愛し欧州戦史に詳しい。"
+        },
+        {
+          "id": "ooarai-kaba-saemonza",
+          "name": "左衛門佐",
+          "role": "装填手",
+          "profile": "日本の戦国時代に造詣が深い。真田こねつけ餅が好物。"
+        },
+        {
+          "id": "ooarai-kaba-oryou",
+          "name": "おりょう",
+          "role": "操縦手",
+          "profile": "幕末史に詳しく坂本龍馬を尊敬。"
+        }
       ]
     },
     {
       "team_name": "ウサギさんチーム",
       "category": "1年生チーム",
       "members": [
-        { "id": "ooarai-usagi-azusa", "name": "澤 梓", "role": "車長" },
-        { "id": "ooarai-usagi-ayumi", "name": "山郷 あゆみ", "role": "75mm主砲 砲手" },
-        { "id": "ooarai-usagi-saki", "name": "丸山 紗希", "role": "37mm副砲 装填手" },
-        { "id": "ooarai-usagi-katrina", "name": "阪口 桂利奈", "role": "操縦手" },
-        { "id": "ooarai-usagi-yuuki", "name": "宇津木 優季", "role": "通信手" },
-        { "id": "ooarai-usagi-aya", "name": "大野 あや", "role": "37mm副砲 砲手" }
+        {
+          "id": "ooarai-usagi-azusa",
+          "name": "澤 梓",
+          "role": "車長",
+          "profile": "M3リー車長。面倒見が良く、調子に乗りやすい面々を慎重さでまとめる。"
+        },
+        {
+          "id": "ooarai-usagi-ayumi",
+          "name": "山郷 あゆみ",
+          "role": "75mm主砲 砲手",
+          "profile": "ボーイッシュでさっぱり。75mm主砲の砲手。"
+        },
+        {
+          "id": "ooarai-usagi-saki",
+          "name": "丸山 紗希",
+          "role": "37mm副砲 装填手",
+          "profile": "寡黙で独特だが、要所でチームを救う「ひとこと」を発する。"
+        },
+        {
+          "id": "ooarai-usagi-katrina",
+          "name": "阪口 桂利奈",
+          "role": "操縦手",
+          "profile": "アニメ・特撮好き。考えるより行動するタイプの“やればできる子”。"
+        },
+        {
+          "id": "ooarai-usagi-yuuki",
+          "name": "宇津木 優季",
+          "role": "通信手・75mm主砲 装填手",
+          "profile": "通信手兼75mm主砲装填手。マイペースな癒やし系。「バターになっちゃいますよ～」。"
+        },
+        {
+          "id": "ooarai-usagi-aya",
+          "name": "大野 あや",
+          "role": "37mm副砲 砲手",
+          "profile": "明るいツインテール。試合でよくメガネが割れる。"
+        }
       ]
     },
     {
       "team_name": "カモさんチーム",
       "category": "風紀委員チーム",
       "members": [
-        { "id": "ooarai-kamo-sodoko", "name": "園 みどり子（そど子）", "role": "車長・副砲 砲手・副砲 装填手" },
-        { "id": "ooarai-kamo-gomoyo", "name": "後藤 モヨ子（ごも代）", "role": "操縦手" },
-        { "id": "ooarai-kamo-pazomi", "name": "金春 希美（パゾ美）", "role": "主砲 砲手・通信手" }
+        {
+          "id": "ooarai-kamo-sodoko",
+          "name": "園 みどり子（そど子）",
+          "role": "車長・副砲 砲手・副砲 装填手",
+          "profile": "B1bisの車長兼副砲砲手兼装填手。規則一点張りだが周囲に感化されつつある。遅刻常習の麻子となぜか気が合う。"
+        },
+        {
+          "id": "ooarai-kamo-gomoyo",
+          "name": "後藤 モヨ子（ごも代）",
+          "role": "操縦手",
+          "profile": "おかっぱで若干髪が長い。愛称はごも代。"
+        },
+        {
+          "id": "ooarai-kamo-pazomi",
+          "name": "金春 希美（パゾ美）",
+          "role": "主砲 砲手・通信手",
+          "profile": "おかっぱ最短。愛称はパゾ美。"
+        }
       ]
     },
     {
       "team_name": "レオポンさんチーム",
       "category": "自動車部チーム",
       "members": [
-        { "id": "ooarai-leopon-nakajima", "name": "ナカジマ（中嶋 麗羅）", "role": "車長・通信手" },
-        { "id": "ooarai-leopon-suzuki", "name": "スズキ（鈴木 真莉阿）", "role": "装填手" },
-        { "id": "ooarai-leopon-hoshino", "name": "ホシノ（星野 慶子）", "role": "砲手" },
-        { "id": "ooarai-leopon-tsuchiya", "name": "ツチヤ（土屋 夢屯）", "role": "操縦手" }
+        {
+          "id": "ooarai-leopon-nakajima",
+          "name": "ナカジマ（中嶋 麗羅）",
+          "role": "車長・通信手",
+          "profile": "ポルシェティーガー車長。ラリー好き。雨の日外出好きで「雨はナカジマ」。"
+        },
+        {
+          "id": "ooarai-leopon-suzuki",
+          "name": "スズキ（鈴木 真莉阿）",
+          "role": "装填手",
+          "profile": "将来はプロ戦車道チームのオーナーになるのが夢。"
+        },
+        {
+          "id": "ooarai-leopon-hoshino",
+          "name": "ホシノ（星野 慶子）",
+          "role": "砲手",
+          "profile": "運転名人で「大洗一早い女」の二つ名を持つ。"
+        },
+        {
+          "id": "ooarai-leopon-tsuchiya",
+          "name": "ツチヤ（土屋 夢屯）",
+          "role": "操縦手",
+          "profile": "ドリフト好き。金曜のドリンクバー好きから「ドリキン」と呼ばれる。"
+        }
       ]
     },
     {
       "team_name": "アリクイさんチーム",
       "category": "ネット戦車ゲームチーム",
       "members": [
-        { "id": "ooarai-arikui-nekonya", "name": "ねこにゃー（猫田 舞）", "role": "車長・通信手" },
-        { "id": "ooarai-arikui-momoga", "name": "ももがー（百瀬 多希）", "role": "操縦手" },
-        { "id": "ooarai-arikui-piyotan", "name": "ぴよたん（日吉 葵）", "role": "砲手" }
+        {
+          "id": "ooarai-arikui-nekonya",
+          "name": "ねこにゃー（猫田 舞）",
+          "role": "車長・通信手",
+          "profile": "三式中戦車車長。オンライン戦車ゲーム仲間のリーダー格。メガネを外すと美人との噂。"
+        },
+        {
+          "id": "ooarai-arikui-momoga",
+          "name": "ももがー（百瀬 多希）",
+          "role": "操縦手",
+          "profile": "桃型ピンクの眼帯がチャームポイント。"
+        },
+        {
+          "id": "ooarai-arikui-piyotan",
+          "name": "ぴよたん（日吉 葵）",
+          "role": "砲手・装填手",
+          "profile": "砲手兼装填手。小学校での合宿生活で砲弾を片手扱いできるほど鍛えた。"
+        }
       ]
     },
     {
@@ -86,12 +241,43 @@
       "category": "船舶科チーム",
       "notes": "ニックネーム設定あり",
       "members": [
-        { "id": "ooarai-same-ogin", "name": "お銀", "role": "車長", "nickname": "竜巻のお銀" },
-        { "id": "ooarai-same-ram", "name": "ラム", "role": "操縦手", "nickname": "爆弾低気圧のラム" },
-        { "id": "ooarai-same-murakami", "name": "ムラカミ", "role": "砲手", "nickname": "サルガッソーのムラカミ" },
-        { "id": "ooarai-same-flint", "name": "フリント", "role": "操縦手・通信手", "nickname": "大波のフリント" },
-        { "id": "ooarai-same-cutlass", "name": "カトラス", "role": "砲手", "nickname": "生しらす丼のカトラス" }
+        {
+          "id": "ooarai-same-ogin",
+          "name": "お銀",
+          "role": "車長",
+          "nickname": "竜巻のお銀",
+          "profile": "Mk.Ⅳ戦車の車長。船舶科の荒くれ者を束ねるリーダー。ロングコートに赤い羽根帽、パイプ型の飴がトレードマーク。"
+        },
+        {
+          "id": "ooarai-same-ram",
+          "name": "ラム",
+          "role": "操縦手",
+          "nickname": "爆弾低気圧のラム",
+          "profile": "酒は飲んでいないのにいつも頬が赤い赤毛のチリチリパーマ。お銀を「親分」と慕う。"
+        },
+        {
+          "id": "ooarai-same-murakami",
+          "name": "ムラカミ",
+          "role": "砲手",
+          "nickname": "サルガッソーのムラカミ",
+          "profile": "長身筋骨隆々。見た目は真面目だがケンカっぱやい。"
+        },
+        {
+          "id": "ooarai-same-flint",
+          "name": "フリント",
+          "role": "操縦手・通信手",
+          "nickname": "大波のフリント",
+          "profile": "長身の美人。深いスリットのロンスカが似合う。カラオケが得意でBAR「どん底」で美声を披露。"
+        },
+        {
+          "id": "ooarai-same-cutlass",
+          "name": "カトラス",
+          "role": "砲手",
+          "nickname": "生しらす丼のカトラス",
+          "profile": "サメさんで比較的クールで無口。BAR「どん底」ではバーテンダーも務める。"
+        }
       ]
     }
   ]
 }
+
