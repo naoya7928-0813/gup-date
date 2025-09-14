@@ -55,8 +55,8 @@
     },
     "koala": {
       "main": "https://naoya7928-0813.github.io/gup-date/koala.json",
-      "tanks": "https://naoya7928-0813.github.io/gup-date/koara_tanks.json",
-      "affinity": "https://naoya7928-0813.github.io/gup-date/koara_affinity.json"
+      "tanks": "https://naoya7928-0813.github.io/gup-date/koala_tanks.json",
+      "affinity": "https://naoya7928-0813.github.io/gup-date/koala_affinity.json"
     },
     "maginot": {
       "main": "https://naoya7928-0813.github.io/gup-date/maginot.json",
@@ -86,7 +86,7 @@
     "bonple": {
       "main": "https://naoya7928-0813.github.io/gup-date/bonple.json",
       "tanks": "https://naoya7928-0813.github.io/gup-date/bonple_tanks.json",
-      "affinity": "https://naoya7928-0813.github.io/gup-date/bomple_affinity.json"
+      "affinity": "https://naoya7928-0813.github.io/gup-date/bonple_affinity.json"
     },
     "neutral": {
       "main": "https://naoya7928-0813.github.io/gup-date/neutral.json",
