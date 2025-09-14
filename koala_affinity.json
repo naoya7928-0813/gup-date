@@ -1,0 +1,8 @@
+{
+  "school": "コアラの森学園",
+  "parameters": {
+    "KOALA-Koala":     {"affection":0,"trust":0,"hostility":0,"charm":55,"stress":0,"fear":0,"sanity":100,"hunger":25,"fatigue":0,"health":100,"bowel_urge":46,"bladder_urge":17,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "KOALA-Warabi":    {"affection":0,"trust":0,"hostility":0,"charm":49,"stress":0,"fear":0,"sanity":100,"hunger":63,"fatigue":0,"health":100,"bowel_urge":12,"bladder_urge":40,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0},
+    "KOALA-Kamonohashi":{"affection":0,"trust":0,"hostility":0,"charm":50,"stress":0,"fear":0,"sanity":100,"hunger":37,"fatigue":0,"health":100,"bowel_urge":52,"bladder_urge":29,"oxygen":100,"arousal":0,"dependency_player":0,"dependency_tank":0}
+  }
+}
